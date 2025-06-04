@@ -2,3 +2,4 @@
 ||ht-cdn2.adtng.com^
 ||hw-cdn2.adtng.com^
 ||a.adtng.com^
+||vcmdiawe.com^
