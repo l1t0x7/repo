@@ -1,2 +1,3 @@
 ||vast.livejasmin.com^
-
+||ht-cdn2.adtng.com^
+||hw-cdn2.adtng.com^
