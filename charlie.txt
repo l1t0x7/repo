@@ -1,5 +1,6 @@
-||vast.livejasmin.com^
-||ht-cdn2.adtng.com^
-||hw-cdn2.adtng.com^
-||a.adtng.com^
+@@||adtng.com^
 ||vcmdiawe.com^
+||livejasmin.com^
+||soleustalions.top^
+!fireoscaptiveportal.com^
+!firetvcaptiveportal.com
