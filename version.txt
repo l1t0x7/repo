@@ -1,1 +1,3 @@
-2602 = https://files.catbox.moe/1d69jr.zip
+version = 3.3.1
+url = https://www.google.com/?zx=1789575433399
+force = yes
