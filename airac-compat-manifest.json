@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "revision": 5,
-  "version": "2026.10.07.5",
-  "generatedAt": "2026-10-07T00:22:29.184Z",
+  "revision": 6,
+  "version": "2026.10.07.6",
+  "generatedAt": "2026-10-07T01:04:35.887Z",
   "minJeppViewer": "3.6.1",
   "database": "airac-compat.json",
-  "sha256": "1b56b99a3c262a78bc121c370e122f5c4a8448fdbcd93a4636ba0a2a6d58f0f6",
-  "size": 6121614,
+  "sha256": "41dcd99c4ab27b4015b760031a3a6ffa2fc29b038672918db9f24912a6582867",
+  "size": 6064493,
   "supportedPairs": [
     "2503>2610"
   ]
