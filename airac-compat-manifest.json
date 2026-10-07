@@ -1,13 +1,36 @@
 {
   "schema": 1,
-  "revision": 6,
-  "version": "2026.10.07.6",
-  "generatedAt": "2026-10-07T01:04:35.887Z",
-  "minJeppViewer": "3.6.1",
+  "revision": 8,
+  "version": "2026.10.07.8",
+  "generatedAt": "2026-10-07T13:11:27.314Z",
+  "minJeppViewer": "3.6.3",
   "database": "airac-compat.json",
-  "sha256": "41dcd99c4ab27b4015b760031a3a6ffa2fc29b038672918db9f24912a6582867",
-  "size": 6064493,
+  "sha256": "03104cb9a6184216ccfe5396998ab25173be579c3dbd2ca92e704c30abaccc15",
+  "size": 7731982,
   "supportedPairs": [
     "2503>2610"
-  ]
+  ],
+  "buildProvenance": {
+    "algorithm": "compat-rev8",
+    "builderSha256": "9dc71d456d83609211ca8b4d0725f5581779cfc9bab0569c4fa9022c04c83fd5",
+    "source": {
+      "cycle": "2503",
+      "files": 16140,
+      "sha256": "24ca09d38f9305ee39d1df9fb23fa462f03c0c4284c23308a7e137cf191a1e01"
+    },
+    "target": {
+      "cycle": "2610",
+      "files": 14940,
+      "sha256": "7bfd81dead7a4c51f44e06cf9ace79e0560dbee2fa052cc14391a0d04adc8643"
+    },
+    "thresholds": {
+      "shortFingerprintMinLegs": 3,
+      "rolloverMinScore": 76,
+      "rolloverIndependentSignals": 3,
+      "waypointAliasMinAnchors": 3,
+      "fixedTrackMinAnchors": 3,
+      "fixedTrackMaxPointShiftNm": 0.15
+    }
+  },
+  "semanticSha256": "c33abe261519246ffb80031984fdeb22d2b0a1b8702d0656590c0f85f8427a3b"
 }
