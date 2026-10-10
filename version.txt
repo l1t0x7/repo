@@ -1,3 +1,3 @@
-version = 3.6.5
-url = https://modsfire.com/TY5K0357G7lB175
+version = 3.6.6
+url = https://modsfire.com/2u9N6j4DBZJ39Ct
 force = yes
