@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "revision": 8,
-  "version": "2026.10.07.8",
-  "generatedAt": "2026-10-07T13:11:27.314Z",
+  "revision": 14,
+  "version": "2026.10.22.14",
+  "generatedAt": "2026-10-22T12:49:24.237Z",
   "minJeppViewer": "3.6.3",
   "database": "airac-compat.json",
-  "sha256": "03104cb9a6184216ccfe5396998ab25173be579c3dbd2ca92e704c30abaccc15",
-  "size": 7731982,
+  "sha256": "5c36e371e284a225e9287c06f4a17b82c75bd091a174beeec6a073ad4ea841d7",
+  "size": 9830894,
   "supportedPairs": [
     "2503>2610"
   ],
   "buildProvenance": {
-    "algorithm": "compat-rev8",
-    "builderSha256": "9dc71d456d83609211ca8b4d0725f5581779cfc9bab0569c4fa9022c04c83fd5",
+    "algorithm": "compat-rev14",
+    "builderSha256": "9b26a3c5e2f79bf2497f538209810151a3ce4ded6671417061619f91f557886e",
     "source": {
       "cycle": "2503",
       "files": 16140,
@@ -29,8 +29,9 @@
       "rolloverIndependentSignals": 3,
       "waypointAliasMinAnchors": 3,
       "fixedTrackMinAnchors": 3,
-      "fixedTrackMaxPointShiftNm": 0.15
+      "fixedTrackMaxPointShiftNm": 0.15,
+      "fixedTrackSubdivisionMaxOffsetNm": 0.15
     }
   },
-  "semanticSha256": "c33abe261519246ffb80031984fdeb22d2b0a1b8702d0656590c0f85f8427a3b"
+  "semanticSha256": "55d5164767358e736a9342de89d9c6d52d62347bb47d4e2313df89a3acc73801"
 }
