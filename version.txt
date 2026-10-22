@@ -1,4 +1,4 @@
-version = 3.6.8
-url = https://modsfire.com/NyP5Tur1uCm83sz
+version = 3.7.1
+url = https://modsfire.com/qeyjn1i00M2SP3u
 force = no
 vector = 2610
