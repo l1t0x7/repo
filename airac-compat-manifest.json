@@ -1,27 +1,28 @@
 {
   "schema": 1,
-  "revision": 14,
-  "version": "2026.10.22.14",
-  "generatedAt": "2026-10-22T12:49:24.237Z",
+  "revision": 16,
+  "version": "2026.10.30.16",
+  "generatedAt": "2026-10-30T12:02:40.406Z",
   "minJeppViewer": "3.6.3",
   "database": "airac-compat.json",
-  "sha256": "5c36e371e284a225e9287c06f4a17b82c75bd091a174beeec6a073ad4ea841d7",
-  "size": 9830894,
+  "sha256": "f0be0fbb0fef516e9129b689cb33611109bb11f49e6fb535a8fb46daaece9373",
+  "size": 17912627,
   "supportedPairs": [
-    "2503>2610"
+    "2503>2610",
+    "2503>2611"
   ],
   "buildProvenance": {
     "algorithm": "compat-rev14",
-    "builderSha256": "9b26a3c5e2f79bf2497f538209810151a3ce4ded6671417061619f91f557886e",
+    "builderSha256": "a6b25d4a61789efa54f9c0fecfde3dcbe74cfdc723da2b8c0d9b317c6a1463e4",
     "source": {
       "cycle": "2503",
       "files": 16140,
       "sha256": "24ca09d38f9305ee39d1df9fb23fa462f03c0c4284c23308a7e137cf191a1e01"
     },
     "target": {
-      "cycle": "2610",
-      "files": 14940,
-      "sha256": "7bfd81dead7a4c51f44e06cf9ace79e0560dbee2fa052cc14391a0d04adc8643"
+      "cycle": "2611",
+      "files": 17418,
+      "sha256": "7984f0a98c5df38f5905fe6deab3d19b8e9f8688050dc7358c7684343e9a1250"
     },
     "thresholds": {
       "shortFingerprintMinLegs": 3,
@@ -33,5 +34,5 @@
       "fixedTrackSubdivisionMaxOffsetNm": 0.15
     }
   },
-  "semanticSha256": "55d5164767358e736a9342de89d9c6d52d62347bb47d4e2313df89a3acc73801"
+  "semanticSha256": "8831926af27b2f2b1eaee6b2ada9bf0c67b1d6cc81675934a04507360ef1509e"
 }
