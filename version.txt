@@ -1,4 +1,4 @@
-version = 3.7.4
-url = https://modsfire.com/rr6x51d40nUdUVx
-force = no
+version = 3.7.5
+url = https://modsfire.com/eGQCUE1VJZ59uFN
+force = yes
 vector = 2611
